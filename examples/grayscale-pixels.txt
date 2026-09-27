@@ -1,0 +1,6 @@
+2x2 BMP, B=G=R after conversion (top row first):
+29 255
+77 149
+
+Pixel bytes at offset 54 (BMP stores bottom row first):
+77 77 77 149 149 149 0 0 29 29 29 255 255 255 0 0

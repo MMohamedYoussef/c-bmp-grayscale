@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.obj
+build/
+*.log
+/bmp-grayscale
+/tests
+/gray.bmp
